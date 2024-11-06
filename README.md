@@ -1,6 +1,6 @@
 # Hello, I'm Wahab Mustapha 👋
 
-I'm a Junior DevOps Engineer with skills in:
+I'm a DevOps Engineer with skills in:
 
 - **Operating Systems**: Linux
 - **Containerization**: Docker, Kubernetes
