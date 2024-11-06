@@ -14,7 +14,7 @@ I'm a Junior DevOps Engineer with skills in:
 - **[Rentzone-Terraform-AWS](https://github.com/wabsence/eligant__rentzone_terraform_ecs_project.git)**  
   Rentzone Application Deployment and Infrastructure setup on AWS using Terraform
 
-  - **[PHPAPP-Deployment-Terraform](https://github.com/wabsence/terraform-php-stack.git)**  
+- **[PHPAPP-Deployment-Terraform](https://github.com/wabsence/terraform-php-stack.git)**  
  One click PHP stack provisioning and deployment with terraform for your php application in few minutes
 
 - **[Rentzone-Terraform-AWS](https://github.com/wabsence/TerraformProject.git)**  
