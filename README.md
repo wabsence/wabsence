@@ -17,7 +17,7 @@ I'm a DevOps Engineer with skills in:
 - **[PHPAPP-Deployment-Terraform](https://github.com/wabsence/terraform-php-stack.git)**  
  One click PHP stack provisioning and deployment with terraform for your php application in few minutes
 
-- **[Rentzone-Terraform-AWS](https://github.com/wabsence/TerraformProject.git)**  
+- **[InfrastructureProvisioning-Terraform-AWS](https://github.com/wabsence/TerraformProject.git)**  
   Infrastructure setup on AWS using Terraform | This is a collection of different terraform projects to provision infrastructures on the cloud.
 
 - **[Dockerized App](https://github.com/wabsence/Dockerized-App)**  
